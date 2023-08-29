@@ -1,0 +1,3 @@
+git init-----inialize the repo with git
+git add . -- all files from working staging
+git add script.js---only file one file added to staging
